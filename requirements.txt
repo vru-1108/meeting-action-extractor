@@ -6,3 +6,7 @@ streamlit
 pandas
 python-dotenv
 pytest
+fastapi
+uvicorn[standard]
+requests
+httpx
